@@ -21,7 +21,7 @@ Welcome to the **Drum Kit** web application! This is a fun and interactive websi
 
 ## Demo
 
-Check out a live demo [here](#) (update this link with your website URL).
+Check out a live demo [here](https://chidellapranav.github.io/drum2/).
 
 ## Installation
 
